@@ -1,10 +1,10 @@
 /*
- * ================================================================
+ * 
  * FileName: main.c
  * Lab 10: ADC-Based Servo Control
  * Author: Yash Bhandari
  * Created: 3/25/2025
- * ================================================================
+ *
  *
  * Operations:
  *   Reads an analog voltage from a potentiometer using the ADC,
